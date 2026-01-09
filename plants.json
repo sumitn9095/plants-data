@@ -1,7 +1,0 @@
-{
-  "profile": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/profile.jpg",
-  "images": [
-    {"name":"Plant 1","img":"https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/1.jpeg","cost":90},
-    {"name":"Plant 2","img":"https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/2.jpg","cost":110}
-  ]
-}
