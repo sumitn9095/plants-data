@@ -1,0 +1,162 @@
+{
+  "profile": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/profile.jpg",
+  "services": [
+    {
+      "id":1,
+      "name": "Compositing + Plants",
+      "imgq": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/1.jpeg",
+      "img": "assets/data/plants/services/1.webp",
+      "detail":["I offer an eco-friendly service focused on organic composting and plant growth, helping households and small spaces turn wet waste into natural fertilizer. Instead of letting kitchen waste create pollution in landfills, I convert it into rich compost that supports a healthy and sustainable environment."
+,
+"This compost is then used to grow healthy plants, improving air quality and adding greenery to your surroundings. My process ensures that your food scraps are recycled in the most natural way, reducing waste and promoting a cleaner future.",
+
+"Whether you live in an apartment, society, or independent home, I can help you start composting and maintain plants using your own organic waste.Together, we create a greener space — naturally, responsibly, and beautifully. 🌱♻️"],
+      "cost": 90,
+      "category":"service"
+    },
+    {
+      "id":2,
+      "name": "Plants in different packages + kitchen garden scheme including microgreen farming",
+      "imgq": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/2.jpg",
+      "img": "assets/data/plants/services/2.2.webp",
+      "detail":["I offer a wide range of plants in different package options to suit every space — from small table-top pots for home décor to balcony planters and terrace garden kits. Whether you are looking to start simple with indoor greens or build a full outdoor collection, you'll find the right plants designed for healthy growth and easy maintenance.",
+
+"Along with this, I provide a complete Kitchen Garden Scheme, helping individuals and families grow their own fresh vegetables, herbs, and aromatic plants at home. This includes planning support, soil and fertilizer guidance, and step-by-step assistance for setting up your kitchen garden successfully.",
+
+"To support healthier eating and self-sustainable living, I also offer Microgreen Farming setups. Microgreens are highly nutritious, grow quickly, and require very little space, making them perfect for homes, apartments, and small balconies. Through simple kits and learning assistance, you can start growing fresh microgreens within days and enjoy organic food straight from your home."],
+      "cost": 110,
+      "category":"service"
+    },
+    {
+      "id":3,
+      "name": "After service / maintenence",
+      "imgq": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/3.jpg",
+      "img": "assets/data/plants/services/3.1.webp",
+      "detail":["Once any service or maintenance task is completed, I provide continued support to ensure everything runs smoothly and efficiently. My focus is not just on solving the issue, but also on ensuring long-term reliability and performance.",
+
+"I remain available for post-service monitoring, performance check-ins, and troubleshooting if something feels unusual or requires fine-tuning. Preventive guidance, best practices, and usage tips are also shared to help avoid future issues and extend the life of equipment or systems.",
+
+"With transparent communication and quick response, I ensure you feel supported even after the work is done, offering peace of mind and confidence in ongoing operations."],
+      "cost": 322,
+      "category":"service"
+    },
+    {
+      "id":4,
+      "name": "Adopt big plant for 6 years",
+      "imgq": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/3.jpg",
+      "img": "assets/data/plants/services/4.jpg",
+      "detail":["Adopting a fully grown or big plant for six years is a powerful commitment toward restoring our environment. Unlike small saplings, big plants already have strong roots and a higher survival rate, meaning your effort directly supports a healthy and growing ecosystem.",
+        "By nurturing a mature plant, you contribute immediately to cleaner air, increased oxygen, and reduced pollution around your locality. These plants also provide shade, support biodiversity, and become a home for birds, insects, and other life forms.",
+        "Over six years, your adopted plant will continue to grow stronger, absorb carbon, and cool its surroundings naturally. This small but meaningful action not only helps nature but also inspires others to take responsibility for the planet.","Adopt a plant, care for it, watch it thrive — and be a part of creating a greener, healthier future for everyone. 🌿🌎"],
+      "cost": 322,
+      "category":"service"
+    },
+    {
+      "id":5,
+      "name": "Take a tour in farms, once in a 6 months",
+      "imgq": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/3.jpg",
+      "img": "assets/data/plants/services/5.webp",
+      "detail":["Visiting farms once every six months is a meaningful way to reconnect with nature and understand where our food truly comes from. It allows us to see the hard work of farmers, the growing cycle of crops, and the methods used to cultivate healthy produce. Spending time in natural surroundings also gives us a refreshing break from city pollution and digital life, helping us relax and breathe cleaner air.",
+      "Farms are classrooms in the open sky — we learn about soil, plants, animals, and traditional farming practices that sustain life. Children and adults alike get hands-on experiences like planting seeds, feeding animals, or observing irrigation systems. Such trips also inspire respect for farmers and encourage better waste-management and sustainable habits in everyday life.",
+      "Regular farm visits create awareness about seasonal fruits and vegetables, organic farming, and the importance of protecting nature. By stepping into the fields twice a year, we build a deeper connection with the environment and develop a more conscious approach toward food, health, and biodiversity."],
+      "cost": 322,
+      "category":"service"
+    },
+    {
+      "id":9,
+      "name": "Balcony Decor",
+      "imgq": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/3.jpg",
+      "img": "assets/data/plants/services/9.jpg",
+      "detail":["Transforming a balcony into a refreshing, cozy space is not just décor — it's creating a personal escape within your home. I help design balconies that bring nature, comfort, and style together in perfect balance."
+,
+"Whether it's a green corner filled with indoor plants, a relaxed reading nook, or a stylish seating space for evening tea, I create designs that match your mood and lifestyle. I focus on smart use of space, natural lighting, and soothing textures to make balconies feel open and inviting."
+,
+"From planters, lights, and wall art to eco-friendly décor and seating ideas, I provide customized decoration concepts that suit apartments of all sizes. My goal is to turn your balcony into a peaceful mini-garden or modern outdoor lounge you'll love spending time in — every single day."],
+      "cost": 322,
+      "category":"service"
+    },
+    {
+      "id":10,
+      "name": "Succulent selling / Succulent decoration",
+      "imgq": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/3.jpg",
+      "img": "assets/data/plants/services/10.webp",
+      "detail":["I offer a unique range of beautiful succulents that bring nature, calmness, and elegance into your space. Whether you're looking for a low-maintenance indoor plant, a thoughtful gift, or a natural décor piece, my hand-grown succulents are perfect for homes, offices, and special occasions."
+,
+"Each plant is carefully selected, nurtured, and arranged to ensure it thrives while adding charm to your surroundings. I also create custom succulent decorations — from mini desk pots and cute jars to centerpiece arrangements and themed plant displays."
+,
+"Succulents are not only attractive; they purify air, require very little care, and make your environment feel fresh and positive. With creative styling and healthy plants, I aim to bring the beauty of nature into modern living spaces."
+,
+"If you want customized arrangements, bulk gifting options, or creative plant décor ideas — I'm happy to help you create something truly special. 🌿✨"],
+      "cost": 322,
+      "category":"service"
+    }
+  ],
+  "future_services": [
+    {
+      "id":6,
+      "name": "Making metal stands by order and selling",
+      "img": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/3.jpg",
+      "detail":"This data is for Service 3",
+      "cost": 322,
+      "category":"service"
+    },
+    {
+      "id":7,
+      "name": "Making competition in balcony growers",
+      "img": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/3.jpg",
+      "detail":"This data is for Service 3",
+      "cost": 322,
+      "category":"service"
+    },
+    {
+      "id":8,
+      "name": "Getting contracts for terrace gardening",
+      "img": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/3.jpg",
+      "detail":"This data is for Service 3",
+      "cost": 322,
+      "category":"service"
+    },
+    {
+      "id":11,
+      "name": "Pot making with waste building cement",
+      "img": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/3.jpg",
+      "detail":"This data is for Service 3",
+      "cost": 322,
+      "category":"service"
+    }
+  ],
+  "plants": [
+    {
+      "id":1,
+      "name": "Plant 1",
+      "img": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/1.jpeg",
+      "detail":"This data is for Plant 1",
+      "cost": 90,
+      "category":"plant"
+    },
+    {
+      "id":2,
+      "name": "Plant 2",
+      "img": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/2.jpg",
+      "detail":"This data is for Plant 2",
+      "cost": 110,
+      "category":"plant"
+    },
+    {
+      "id":3,
+      "name": "Plant 3",
+      "img": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/3.jpg",
+      "detail":"This data is for Plant 3",
+      "cost": 110,
+      "category":"plant"
+    },
+    {
+      "id":4,
+      "name": "Plant 4",
+      "img": "https://raw.githubusercontent.com/sumitn9095/plants-data/main/plants/4.jpg",
+      "detail":"This data is for Plant 4",
+      "cost": 110,
+      "category":"plant"
+    }
+  ]
+}
